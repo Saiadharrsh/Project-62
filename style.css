@@ -1,0 +1,52 @@
+body {
+    text-align: center;
+    background-color: black
+}
+
+h1 {
+    color: aqua
+}
+img {
+    height:200px;
+    width:200px;
+     border: 5px solid #555;
+}
+img:hover {
+    transform: scale(0.9);
+    transition: 2s;
+}
+#gridgal {
+    background-image: linear-gradient(to bottom,#1A2980 0%,#26D0CE 100%)
+}
+
+#sliding{
+    background-image: linear-gradient(to bottom, #E55D87, #5FC3E4);
+}
+sliderimg {
+height:400;
+    width:200px;}
+#introduction {
+     background:linear-gradient(to right, #ff6e7f, #bfe9ff)
+}
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+    
+}
+#myCarousel {
+    background-color: red;
+    
+}
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+    
+}
+.carousel-inner p{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
+
+
